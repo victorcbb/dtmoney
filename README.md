@@ -8,3 +8,4 @@ This project was done as an activity of Rocketseat's Ignite program, with the pu
 - `React`
 - `Nodejs`
 - `useContext`
+- `MirageJS`
